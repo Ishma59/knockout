@@ -1,4 +1,4 @@
-# knockout
+# popular_logs 
 Simple script that knocked me out
 read a logfile ie `*ishma.log*`
 with the format:  
